@@ -3800,5 +3800,3 @@ const randomPersonData = [
     photo: "https://randomuser.me/api/portraits/med/women/21.jpg",
   },
 ];
-
-console.log(randomPersonData.length);
